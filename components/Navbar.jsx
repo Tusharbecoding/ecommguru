@@ -13,7 +13,8 @@ const Navbar = () => {
       </p>
 
       <button type="button" className="cart-icon">
-
+        <AiOutlineShopping />
+        <span className="cart-item-qty">1</span>
       </button>
     </div>
   )
